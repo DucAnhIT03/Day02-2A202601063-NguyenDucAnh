@@ -2,6 +2,22 @@
 
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
 
+## Bài nộp — Nguyễn Đức Anh
+
+**Mã học viên:** 2A202601063
+
+| Phần | Artifact chính | Artifact workflow | Trạng thái |
+|---|---|---|---|
+| Phase 1–2 — Cá nhân | [Individual Problem Scan](01-individual-problem-scan/individual-report.md) | [Top 3 workflows](01-individual-problem-scan/01-individual-problem-scan-workflows.md) | Hoàn thành về cấu trúc; số liệu ước lượng được gắn nhãn |
+| Phase 3–6 — Nhóm | [Group Problem Statement](02-group-problem-statement/group-report.md) | [Group workflow và decision](02-group-problem-statement/02-group-problem-statement-workflow.md) | Hoàn thành artifact; còn thiếu xác nhận thành viên và validation thật |
+| Phase 7 — Cá nhân | [Reflection worksheet](03-individual-reflection/reflection.md) | — | Chờ Nguyễn Đức Anh tự viết theo trải nghiệm thật |
+
+**Candidate:** Gom yêu cầu và deadline bài tập từ LMS, Discord và rubric.  
+**Solution hypothesis:** Workflow có AI hỗ trợ một bước + Human Review.  
+**Decision:** `Not Yet` — cần interview, time log, gold set và so sánh với Rule-only trước khi Go.
+
+> Bài không tạo số liệu phỏng vấn/log giả. Các khoảng trống evidence và điều kiện chuyển sang `Go` được ghi trực tiếp trong báo cáo nhóm.
+
 ## Tài liệu trong folder này
 
 Folder này chỉ giữ các file cần thiết:
